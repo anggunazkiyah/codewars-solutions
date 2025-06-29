@@ -4,8 +4,8 @@
 
 ## 📁 8kyu
 
-- [Sentence Smash](sentence-smash.js)
-- [School Paperwork](1-school-paperwork.js)
+- [Sentence Smash](sentence-smash.js.txt)
+- [School Paperwork](1-school-paperwork.js.txt)
 
 ---
 
