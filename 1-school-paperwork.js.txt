@@ -1,0 +1,14 @@
+function paperwork(n, m) {
+  // First, check if either number is negative
+  if(n < 0 || m < 0) {
+    return 0;
+} 
+  
+  // If both are positive (or zero), multiply them
+  return n * m; // Return 0 for any negative input
+}
+
+console.log(paperwork(2, 5)); // Output: 10
+console.log(paperwork(4, 0)); // Output: 0
+console.log(paperwork(2, -4)); // Output: 0
+console.log(paperwork(4, -1)); // Output: 0
