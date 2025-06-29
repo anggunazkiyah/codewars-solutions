@@ -1,12 +1,12 @@
 # Codewars Solutions
 
-This repo contains my JavaScript solutions to Codewars challenges.
+🧠 A collection of my JavaScript solutions to Codewars challenges, organized by difficulty.
 
-## Sentence Smash (8kyu)
+## 📁 8kyu
 
-**Link:** [Codewars Challenge](https://www.codewars.com/kata/53dc23c68a0c93699800041d)
+- [Sentence Smash](8kyu/sentence-smash.js)
+- [School Paperwork](8kyu/1-school-paperwork.js)
 
-```js
-function smash(words) {
-  return words.join(" ");
-}
+---
+
+More coming soon!
