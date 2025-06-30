@@ -7,7 +7,7 @@
 - [Sentence Smash](sentence-smash.js.txt)
 - [School Paperwork](1-school-paperwork.js.txt)
 - [Additive Inverse](additive-inverse.js.txt)
-- [Basic Mathematical Operation](basic-mathematical-operation.js.txt)
+- [Basic Mathematical Operations](basic-mathematical-operations.js.txt)
 
 ---
 
