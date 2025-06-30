@@ -6,6 +6,7 @@
 
 - [Sentence Smash](sentence-smash.js.txt)
 - [School Paperwork](1-school-paperwork.js.txt)
+- [Additive Inverse](additive-inverse.js.txt)
 
 ---
 
