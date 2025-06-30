@@ -1,0 +1,46 @@
+// Function to perform basic mathematical operations
+// Parameters:
+// - operation: string representing the math operation ("+", "-", "*", "/", "%")
+// - value1: first number for the calculation
+// - value2: second number for the calculation
+// Returns: result of the mathematical operation or 0 if operation is invalid
+
+// Code runs here
+function basicOp(operation, value1, value2){
+  // Use switch statement to determine which operation to perform
+  switch (operation) {
+    case "+":
+      // Addition: add value1 and value2
+      return value1 + value2;
+    case "-":
+      // Subtraction: subtract value2 from value1
+      return value1 - value2;
+    case "*":
+      // Multiplication: multiply value1 by value2
+      return value1 * value2;
+    case "/":
+      // Division: divide value1 by value2
+      return value1 / value2;
+    case "%":
+      // Modulo: find remainder when value1 is divided by value2
+      return value1 % value2;
+  }
+  // Default return value if operation doesn't match any case
+  // This handles invalid operations gracefully
+  return 0;
+}
+
+// Test cases to verify the function works correctly
+// Valid Operation - these will not return 0 
+console.log(basicOp("+", 79, 25)); // Addition: 79 + 25 = 104
+console.log(basicOp("-", 76, 6)); // Subtraction: 76 - 6 = 70
+console.log(basicOp("*", 25, 58)); // Multiplication: 25 * 58 = 1450
+console.log(basicOp("/", 100, 23)); // Division: 100 / 23 = 4.347
+console.log(basicOp("%", 60, 25)); // Modulo: 60 % 25 = 10
+
+// Wrong operation - these will return 0
+console.log(basicOp("x", 10, 67));       // Output: 0 (invalid operation)
+console.log(basicOp("&", 15, 3));       // Output: 0 (invalid operation)
+console.log(basicOp(undefined, 3, 8));  // Output: 0 (undefined operation)
+console.log(basicOp(1, 5, 3));          // Output: 0 (number instead of string)
+console.log(basicOp(true, 7, 2));       // Output: 0 (boolean instead of string)
