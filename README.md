@@ -9,7 +9,7 @@
 - [Additive Inverse](additive-inverse.js.txt)
 - [Basic Mathematical Operations](basic-mathematical-operations.js.txt)
 - [Find the Smallest Integer in the Array](find-the-smallest-integer.js.txt)
-- [Convert boolean to a String](convert-boolean-to-a-string.js)
+- [Convert boolean to a String](convert-boolean-to-a-string.js.txt)
 
 ---
 
