@@ -1,0 +1,8 @@
+function findSmallestInt(arr) {
+  return Math.min(...arr);
+}
+
+console.log(findSmallestInt([9, 7, 10, 5, 73])); // 5 are the smallest number
+console.log(findSmallestInt([879, -87, 10, 125, 73])); // -87 are the smallest number
+console.log(findSmallestInt([9, 27, 103, 58, 713])); // 9 are the smallest number
+console.log(findSmallestInt([-9, -7, -10, 15, 734])); // -10 are the smallest number
