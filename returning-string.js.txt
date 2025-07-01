@@ -1,0 +1,16 @@
+function greet(name){
+  if (typeof name === "string" && name.trim() !== "") {
+    return `Hello, ${name} how are you doing today?`;
+  } else {
+    return "Please provide correct value!";
+  }
+}
+
+const message1 = greet("everybody");
+console.log(message1); // Hello, everybody how are you today?
+
+const message2 = greet("   ");
+console.log(message2); // Please provide correct value!
+
+const message3 = greet(24);
+console.log(message2); // Please provide correct value!
