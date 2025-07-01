@@ -10,6 +10,7 @@
 - [Basic Mathematical Operations](basic-mathematical-operations.js.txt)
 - [Find the Smallest Integer in the Array](find-the-smallest-integer.js.txt)
 - [Convert boolean to a String](convert-boolean-to-a-string.js.txt)
+- [Returning String](returning-string.js.txt)
 
 ---
 
