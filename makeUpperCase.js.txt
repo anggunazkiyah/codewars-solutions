@@ -1,0 +1,9 @@
+function makeUpperCase(str) {
+  return str.toUpperCase();
+}
+
+const original = "hi, there!";
+console.log(makeUpperCase(original)); // Output: HI, THERE!
+
+const greet = "Hello, how are you?";
+console.log(makeUpperCase(greet)); // Output: HELLO, HOW ARE YOU?
