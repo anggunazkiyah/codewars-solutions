@@ -1,0 +1,11 @@
+function doubleChar(str) {
+  return str.split("").map(x => x.repeat(2)).join("");
+}
+
+const original = "hey";
+const repeated = doubleChar(original);
+console.log(repeated); // Output: hheeyy
+
+const konichiwa = "konichiwa";
+const doubleKonichiwa = doubleChar(konichiwa);
+console.log(doubleKonichiwa); // Output: kkoonniicchhiiwwaa
