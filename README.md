@@ -14,5 +14,6 @@
 - [Double Char](double-char.js.txt)
 - [Convert lowercase to uppercase](makeUpperCase.js.txt)
 ---
+## 📁 7kyu
 
 More coming soon!
