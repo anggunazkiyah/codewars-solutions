@@ -12,6 +12,7 @@
 - [Convert boolean to a String](convert-boolean-to-a-string.js.txt)
 - [Returning String](returning-string.js.txt)
 - [Double Char](double-char.js.txt)
+- [Convert lowercase to uppercase](makeUpperCase.js.txt)
 ---
 
 More coming soon!
