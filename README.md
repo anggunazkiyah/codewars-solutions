@@ -14,6 +14,7 @@
 - [Double Char](double-char.js.txt)
 - [Convert lowercase to uppercase](makeUpperCase.js.txt)
 - [Keep Up the Hoop Challange](./keepUpTheHoop.js)
+- [Convert Positive Number to Negative](./convertPositiveToNegative.js)
 ---
 ## 📁 7kyu
 
