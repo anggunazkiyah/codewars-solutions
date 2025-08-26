@@ -18,4 +18,6 @@
 ---
 ## 📁 7kyu
 
+- [String ends with?](./stringEndsWith.js)
+
 More coming soon!
