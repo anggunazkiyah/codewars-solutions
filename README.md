@@ -19,5 +19,6 @@
 ## 📁 7kyu
 
 - [String ends with?](./stringEndsWith.js)
+- [Regex validate PIN code](./validatePIN.js)
 
 More coming soon!
