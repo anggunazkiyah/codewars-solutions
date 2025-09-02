@@ -15,6 +15,8 @@
 - [Convert lowercase to uppercase](makeUpperCase.js.txt)
 - [Keep Up the Hoop Challange](./keepUpTheHoop.js)
 - [Convert Positive Number to Negative](./convertPositiveToNegative.js)
+- [Training on Remove Exclamation Marks](./removeExclamationMarks.js)
+
 ---
 ## 📁 7kyu
 
