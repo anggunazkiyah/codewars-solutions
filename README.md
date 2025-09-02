@@ -16,6 +16,7 @@
 - [Keep Up the Hoop Challange](./keepUpTheHoop.js)
 - [Convert Positive Number to Negative](./convertPositiveToNegative.js)
 - [Training on Remove Exclamation Marks](./removeExclamationMarks.js)
+- [Sum The Strings](./sumTheStrings.js)
 
 ---
 ## 📁 7kyu
