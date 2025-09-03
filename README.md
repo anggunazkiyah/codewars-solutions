@@ -17,6 +17,7 @@
 - [Convert Positive Number to Negative](./convertPositiveToNegative.js)
 - [Training on Remove Exclamation Marks](./removeExclamationMarks.js)
 - [Sum The Strings](./sumTheStrings.js)
+- [Grasshopper - Personalized Message](./personalizedMessage.js)
 
 ---
 ## 📁 7kyu
