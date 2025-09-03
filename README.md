@@ -24,5 +24,6 @@
 
 - [String ends with?](./stringEndsWith.js)
 - [Regex validate PIN code](./validatePIN.js)
+- [Remove anchor from URL](./removeUrlAnchor.js)
 
 More coming soon!
