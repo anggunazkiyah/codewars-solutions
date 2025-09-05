@@ -18,6 +18,7 @@
 - [Training on Remove Exclamation Marks](./removeExclamationMarks.js)
 - [Sum The Strings](./sumTheStrings.js)
 - [Grasshopper - Personalized Message](./personalizedMessage.js)
+- [Super Duper Easy](./superDuperEasy.js)
 
 ---
 ## 📁 7kyu
