@@ -26,5 +26,6 @@
 - [String ends with?](./stringEndsWith.js)
 - [Regex validate PIN code](./validatePIN.js)
 - [Remove anchor from URL](./removeUrlAnchor.js)
+- [Training on Disemvowel Trolls](./disemvowelTrolls.js)
 
 More coming soon!
