@@ -19,6 +19,7 @@
 - [Sum The Strings](./sumTheStrings.js)
 - [Grasshopper - Personalized Message](./personalizedMessage.js)
 - [Super Duper Easy](./superDuperEasy.js)
+- [Is the string uppercase?](./stringUpperCase.js)
 
 ---
 ## 📁 7kyu
