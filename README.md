@@ -27,5 +27,6 @@
 - [Regex validate PIN code](./validatePIN.js)
 - [Remove anchor from URL](./removeUrlAnchor.js)
 - [Training on Disemvowel Trolls](./disemvowelTrolls.js)
+- [#3 Sum of Numbers](./sumOfNumbers.js)
 
 More coming soon!
